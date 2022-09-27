@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Abhishek Das</h1>
 <h3 align="center">A Java Backend Developer</h3>
 
-- 🌱 I’m currently learning **Java, MySQL.**
+- 🌱 I’m currently learning **Java, Aspiring Java Backend Developer.**
 
-- 👨‍💻 All of my projects are available at [https://abhidas0810.github.io/](https://abhidas0810.github.io/)
+- 🔭 Checkout my portfolio at : [https://abhidas0810.github.io/](https://abhidas0810.github.io/)
+
+- 💼 See my resume: **[Resume](https://drive.google.com/file/d/1teAfOMr2OdlxPAh7p14AtAJyufAVmaXv/view?usp=sharing)**
 
 - 📫 How to reach me **abhidas0810@gmail.com**
+
+### ⚡ One line that describes me best? 
+A hard working person who enjoys coding.😉😉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
