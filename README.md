@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Aspiring Java Backend Developer.**
 
-- 🔭 Checkout my portfolio at : [https://abhidas0810.github.io/](https://abhidas0810.github.io/)
+- 🔭 Check out my portfolio at : [https://abhidas0810.github.io/](https://abhidas0810.github.io/)
 
 - 💼 See my resume: **[Resume](https://drive.google.com/file/d/1teAfOMr2OdlxPAh7p14AtAJyufAVmaXv/view?usp=sharing)**
 
