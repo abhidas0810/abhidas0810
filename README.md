@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Das</h1>
 <h3 align="center">A Java Backend Developer</h3>
 
-### 𝓘 𝓪𝓶 𝓪  Tech and Automation Enthusiast and 𝓯𝓪𝓼𝓬𝓲𝓷𝓪𝓽𝓮𝓭  𝓽𝓸𝔀𝓪𝓻𝓭𝓼  API Development ❤️
-
-- 🌱 I’m currently learning **Java, Aspiring Java Backend Developer.**
+### 𝓘 𝓪𝓶 𝓪  Tech and Automation Enthusiast and 𝓯𝓪𝓼𝓬𝓲𝓷𝓪𝓽𝓮𝓭  𝓽𝓸𝔀𝓪𝓻
 
 - 🔭 Check out my portfolio at : [https://abhidas0810.github.io/](https://abhidas0810.github.io/)
 
