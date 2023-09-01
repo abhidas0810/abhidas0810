@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abhidas0810@gmail.com**
 
-- ⚡ One line that describes me best : A hard working person who enjoys coding.😉😉
+- ⚡ One line that describes me best : A person who is an enthusiast for coding.😉😉
 
 - ⚡  Apart from coding, I Like Cooking.
 
